@@ -1,4 +1,4 @@
-# bookscraper
+# Scrapy Spider for Books
 
 A Scrapy project to scrape book data from [books.toscrape.com](https://books.toscrape.com).
 
